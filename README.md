@@ -1,8 +1,11 @@
 # Gender-Age-Detection
 
 used Deep Learning to accurately identify the gender and age of a person from a single image of a face.
+
 used pretrained caffe model
-Adience dataset has been used
+
+dataset used: Adience
+
 Convolutional Neural Network is used for the purposes of image recognition and processing NLP. 
 
 click on this link to view the source code
